@@ -1,0 +1,20 @@
+{
+  "name": "tecnologia_backend_pos_ifmg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaiqueliira/Tecnologia_Backend_Pos_Ifmg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaiqueliira/Tecnologia_Backend_Pos_Ifmg/issues"
+  },
+  "homepage": "https://github.com/Kaiqueliira/Tecnologia_Backend_Pos_Ifmg#readme"
+}
